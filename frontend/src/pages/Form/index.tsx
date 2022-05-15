@@ -1,6 +1,5 @@
 import FormCard from 'components/FormCard';
 import { useParams } from 'react-router-dom';
-import './styles.css';
 
 function Form() {
 
